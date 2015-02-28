@@ -1,0 +1,2 @@
+# nor
+nor chip dump
